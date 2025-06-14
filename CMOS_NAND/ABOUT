@@ -1,0 +1,16 @@
+🚀 Stepping into the World of VLSI Design with Cadence! 🧠⚙️
+
+During this vacation, I decided to dive into something I've always been curious about – CMOS circuit design using Cadence Virtuoso. I'm thrilled to share that I successfully designed, simulated, and laid out my first CMOS NAND gate!
+
+🔧 Here's what I accomplished:
+✅ Designed the schematic for a 2-input CMOS NAND gate
+✅ Created its symbol for hierarchical use
+✅ Verified its functionality using transient and DC analysis in simulation
+✅ Built the layout from scratch
+✅ Performed DRC and LVS checks – with zero errors!
+✅ Generated the extracted view for post-layout simulation
+
+This experience not only helped me understand the practical workflow of digital circuit design but also showed how powerful tools like Cadence can be in translating theoretical knowledge into silicon-level design.
+
+📚 A fulfilling way to make use of my vacation – learning, building, and pushing boundaries!
+Excited for what lies ahead in the journey of VLSI and digital design! 💡
