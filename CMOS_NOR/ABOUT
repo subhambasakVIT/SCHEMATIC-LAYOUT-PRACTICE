@@ -1,0 +1,17 @@
+🔧 Continuing My VLSI Design Journey with Cadence Virtuoso 🧠⚡
+
+As I deepen my understanding of CMOS design, I recently completed the implementation of a CMOS NOR gate—adding to the series of logic gates I’ve been designing and simulating.
+
+Here’s what this step involved:
+✅ Created the schematic for the 2-input CMOS NOR gate
+✅ Generated its symbol to use in hierarchical designs
+✅ Verified correct behavior through transient and DC analysis
+✅ Designed the layout while adhering to design rules
+✅ Performed DRC and LVS checks — all passed successfully
+✅ Completed the extracted view for post-layout simulation
+
+Each circuit I work on sharpens my skills in schematic capture, layout editing, and verification — reinforcing the complete custom design flow using Cadence. It’s exciting to see theory come to life through tools like these!
+
+Making the most of this vacation by learning and applying concepts practically — one gate at a time.
+
+#VLSI #CMOSDesign #CadenceVirtuoso #NORGate #Semiconductor #DRC #LVS #DigitalDesign #CustomIC #EngineeringJourney #LearningByDoing #LayoutDesign #Cadence
