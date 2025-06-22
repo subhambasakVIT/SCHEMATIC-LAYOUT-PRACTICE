@@ -7,10 +7,6 @@ Here’s what I worked on:
 ✅ Created a custom symbol for hierarchical circuit integration
 ✅ Simulated the circuit using transient analysis to validate its bistable behavior
 ✅ Performed DC analysis to study switching thresholds
-✅ Built the layout with careful attention to design rules
-✅ Passed all DRC and LVS checks
-✅ Generated the extracted view to prepare for post-layout simulation
-
 This project helped reinforce my understanding of state-based digital circuits and gave me hands-on experience translating theory into practical layout design.
 
 Spending my vacation on these meaningful builds has been a great way to stay engaged and keep learning! On to more complex circuits next. 🚀
